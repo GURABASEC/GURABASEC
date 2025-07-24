@@ -65,7 +65,6 @@ I am a cybersecurity researcher and **Bug Bounty Hunter** with deep expertise in
   <br />
   <img src="https://nirzak-streak-stats.vercel.app?user=GURABASEC&theme=radical&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURABASEC&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 
