@@ -1,21 +1,99 @@
-# 💫 About Me:
-🛡️Cyber Security Researcher || Penetration Tester || Ethical Hacker || CTF Player || Bug Hunter<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFF7&center=true&vCenter=true&width=800&height=40&lines=Bug+Bounty+Hunter" alt="Typing SVG" />
+</p>
+
+<pre align="center">
+ ██████╗ ██╗   ██╗██████╗  █████╗ ██████╗  █████╗ ███████╗███████╗ ██████╗
+██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝
+██║  ███╗██║   ██║██████╔╝███████║██████╔╝███████║███████╗█████╗  ██║     
+██║   ██║██║   ██║██╔══██╗██╔══██║██╔══██╗██╔══██║╚════██║██╔══╝  ██║     
+╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝██║  ██║███████║███████╗╚██████╗
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
+</pre>
 
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/gurabasec.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GURABASEC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GURABASEC) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GURABASEC) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@GURABASEC) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/GURABASEC) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/GURABASEC) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GURABASEC) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GURABASEC) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@GURABASEC) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurabasec@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GURABASEC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GURABASEC&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GURABASEC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+##  About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GURABASEC&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am a cybersecurity researcher and **Bug Bounty Hunter** with deep expertise in:
 
----
-[![](https://visitcount.itsvg.in/api?id=GURABASEC&icon=0&color=3)](https://visitcount.itsvg.in)
+- Web Application Security  
+- Penetration Testing  
+- Vulnerability Discovery  
+- Capture The Flag (CTF)  
+- Red Team Simulation  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+**Core Specialties:**  
+
+`Reconnaissance` · `Web Exploitation` · `OWASP Top 10` · `Subdomain Enumeration` · `Responsible Disclosure` · `CTFs`
+
+
+
+##  Connect With Me
+
+<p align="left">
+  <a href="https://x.com/GURABASEC"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/GURABASEC"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gurabasec@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/GURABASEC"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://youtube.com/@GURABASEC"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/GURABASEC"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@GURABASEC"><img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://reddit.com/user/GURABASEC"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://quora.com/profile/GURABASEC"><img src="https://img.shields.io/badge/Quora-B92B27.svg?style=for-the-badge&logo=quora&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/gurabasec.bsky.social"><img src="https://img.shields.io/badge/bluesky-0285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+</p>
+
+
+
+##  Most Used Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GURABASEC&show_icons=true&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app?user=GURABASEC&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURABASEC&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+
+
+##  Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=GURABASEC&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+
+
+##  Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Caerlower/caerlower/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="terminal-hacker-style" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=Eat.;Sleep.;Hack.;Repeat." />
+</p>
+
+<!-- Built by GURABASEC | Hacker Style | Terminal Clean | Bug Bounty Focus -->
