@@ -85,14 +85,11 @@ I am a cybersecurity researcher and **Bug Bounty Hunter** with deep expertise in
 
 
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="terminal-hacker-style" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=Eat.;Sleep.;Hack.;Repeat." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFF7&center=true&vCenter=true&width=800&height=40&lines=SLEEP%E2%86%94+EAT%E2%86%94+HACK%E2%86%94+REPEAT"
+    alt="Typing SVG"
+  />
 </p>
 
 <!-- Built by GURABASEC | Hacker Style | Terminal Clean | Bug Bounty Focus -->
